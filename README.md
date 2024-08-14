@@ -33,4 +33,6 @@ The Online Quiz System is a web-based application designed to facilitate the cre
 - **Configure the database connection in the project**: Update the database URL, username, and password in the configuration file.
 - Deploy the project on Glassfish Server.
 
+## NOTE
 
+index.jsp is the starting page.
