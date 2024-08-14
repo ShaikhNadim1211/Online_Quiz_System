@@ -28,8 +28,8 @@ The Online Quiz System is a web-based application designed to facilitate the cre
 
 ## Setup and Installation
 
-Import the project into your preferred IDE (e.g., Eclipse or IntelliJ IDEA).
+- Import the project into your preferred IDE (e.g., Eclipse or IntelliJ IDEA).
 - **Set up the database**: Import the provided SQL script into MySQL to create the necessary tables.
 - **Configure the database connection in the project**: Update the database URL, username, and password in the configuration file.
-Deploy the project on Glassfish Server.
+- Deploy the project on Glassfish Server.
 
